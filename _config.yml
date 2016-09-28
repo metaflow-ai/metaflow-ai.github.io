@@ -11,7 +11,7 @@ title                    : "MetaFlow"
 title_separator          : "-"
 name                     : "MetaFlow"
 description              : "An amazing website. -- description"
-url                      : "http://localhost:4000"
+url                      :
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
