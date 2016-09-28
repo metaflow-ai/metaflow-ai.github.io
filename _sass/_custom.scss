@@ -1,0 +1,59 @@
+#site-nav {
+    font-family: $custom-monospace;
+    font-size: 18px;
+
+    .masthead__menu-item:not(.masthead__menu-item--lg) {
+
+    }
+}
+
+h1.page__title {
+    font-family: $custom-monospace;
+}
+
+.page__hero--overlay {
+
+    padding: 6em 0;
+
+    .page__lead {
+        max-width: none!important;
+        font-size: 1em;
+    }
+}
+
+footer {
+    ul.social-icons {
+        li {
+            font-family: $custom-monospace;
+        }
+    }
+}
+
+.page__content {
+
+    h2 {
+        border-bottom: none;
+        margin-bottom: 20px;
+        font-family: $custom-monospace;
+    }
+
+    h3 {
+
+        &.archive__item-title {
+            text-decoration: none!important;
+
+            &:hover {
+                text-decoration: none!important;
+            }
+        }
+    }
+}
+
+.btn--custom {
+    font-size: 0.65em;
+    font-weight: 400;
+
+    &:hover {
+        text-decoration: none!important;
+    }
+}

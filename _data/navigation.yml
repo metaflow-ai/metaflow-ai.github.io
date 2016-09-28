@@ -1,0 +1,7 @@
+# main links links
+main:
+  - title: "Blog"
+    url: http://blog.metaflow.fr
+
+  - title: "Contact"
+    url: "mailto:contact@metaflow.fr"
