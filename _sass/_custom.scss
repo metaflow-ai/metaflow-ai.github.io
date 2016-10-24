@@ -57,3 +57,20 @@ footer {
         text-decoration: none!important;
     }
 }
+
+#blog-post-block {
+
+    h3 {
+        font-size: 0.8em!important;
+    }
+
+    .archive__item-excerpt > p {
+        font-size: 0.8em!important;
+        margin-bottom: 10px;
+    }
+
+    .btn--custom {
+        font-size: 0.55em;
+        font-weight: 400;
+    }
+}
